@@ -1,10 +1,11 @@
 {
-  "name": "angular-bootstrap-checkbox",
+  "name": "angular-bootstrap-checkbox-fa",
   "version": "0.3.1",
   "authors": [
-    "Sebastian Hammerl, Getslash GmbH"
+    "Sebastian Hammerl, Getslash GmbH",
+    "Guillermo Hernan De Souza"
   ],
-  "description": "A checkbox for AngularJS styled to fit the Twitter Bootstrap standard design",
+  "description": "A checkbox for AngularJS styled to fit the Twitter Bootstrap standard design with Font Awesome",
   "main": "angular-bootstrap-checkbox.js",
   "keywords": [
     "angular",
